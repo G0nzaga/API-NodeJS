@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+h4{
+    font-size: 30px;
+}
+
+ul{
+    font-size: 20px;
+    list-style-type: none;
+}
+
